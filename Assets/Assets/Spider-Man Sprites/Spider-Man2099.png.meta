@@ -1,0 +1,1668 @@
+fileFormatVersion: 2
+guid: 1f3fec335f87f1141b964343c7ffe1d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -903835130128893553
+    second: Spider-Man2099_0
+  - first:
+      213: 635773445094138528
+    second: Spider-Man2099_1
+  - first:
+      213: 7457646419814666112
+    second: Spider-Man2099_2
+  - first:
+      213: 862283831683366890
+    second: Spider-Man2099_3
+  - first:
+      213: 169436158395864585
+    second: Spider-Man2099_4
+  - first:
+      213: 6574010474587143489
+    second: Spider-Man2099_5
+  - first:
+      213: -3289263008455302454
+    second: Spider-Man2099_6
+  - first:
+      213: 3314677981657868901
+    second: Spider-Man2099_7
+  - first:
+      213: -6733954435475454964
+    second: Spider-Man2099_8
+  - first:
+      213: -5270336032970582545
+    second: Spider-Man2099_9
+  - first:
+      213: 8304277157537245653
+    second: Spider-Man2099_10
+  - first:
+      213: 6481379734010667229
+    second: Spider-Man2099_11
+  - first:
+      213: -161270840985862099
+    second: Spider-Man2099_12
+  - first:
+      213: -2615085885400868977
+    second: Spider-Man2099_13
+  - first:
+      213: -4546208330348138561
+    second: Spider-Man2099_14
+  - first:
+      213: -6986731665296577602
+    second: Spider-Man2099_15
+  - first:
+      213: 4824061872564000954
+    second: Spider-Man2099_16
+  - first:
+      213: 7157779303903723798
+    second: Spider-Man2099_17
+  - first:
+      213: 6237455300001054054
+    second: Spider-Man2099_18
+  - first:
+      213: -5849394212992142404
+    second: Spider-Man2099_19
+  - first:
+      213: 6340074825315355309
+    second: Spider-Man2099_20
+  - first:
+      213: 1675480164333510826
+    second: Spider-Man2099_21
+  - first:
+      213: -3018858757794917241
+    second: Spider-Man2099_22
+  - first:
+      213: 8832829125109245414
+    second: Spider-Man2099_23
+  - first:
+      213: 3891385982604977898
+    second: Spider-Man2099_24
+  - first:
+      213: -6646966006857805386
+    second: Spider-Man2099_25
+  - first:
+      213: -4580098775406401710
+    second: Spider-Man2099_26
+  - first:
+      213: 1908445013751682632
+    second: Spider-Man2099_27
+  - first:
+      213: -3654622620527880956
+    second: Spider-Man2099_28
+  - first:
+      213: -4671642137184623396
+    second: Spider-Man2099_29
+  - first:
+      213: -2712404921285967450
+    second: Spider-Man2099_30
+  - first:
+      213: 5414088920793301558
+    second: Spider-Man2099_31
+  - first:
+      213: -1623133992854884222
+    second: Spider-Man2099_32
+  - first:
+      213: -8150753579707225152
+    second: Spider-Man2099_33
+  - first:
+      213: 448843096186927333
+    second: Spider-Man2099_34
+  - first:
+      213: -3483700494334271530
+    second: Spider-Man2099_35
+  - first:
+      213: -1131525485346614548
+    second: Spider-Man2099_36
+  - first:
+      213: -5967404570883097197
+    second: Spider-Man2099_37
+  - first:
+      213: -3787020020905588832
+    second: Spider-Man2099_38
+  - first:
+      213: 6619447765425247976
+    second: Spider-Man2099_39
+  - first:
+      213: 7630451313704806747
+    second: Spider-Man2099_40
+  - first:
+      213: -6131322740694060944
+    second: Spider-Man2099_41
+  - first:
+      213: 2092524778574588302
+    second: Spider-Man2099_42
+  - first:
+      213: -4173568122455561102
+    second: Spider-Man2099_43
+  - first:
+      213: 8541664802961997538
+    second: Spider-Man2099_44
+  - first:
+      213: 4466746079229195198
+    second: Spider-Man2099_45
+  - first:
+      213: -6501423191695661302
+    second: Spider-Man2099_46
+  - first:
+      213: 4493193958713316508
+    second: Spider-Man2099_47
+  - first:
+      213: -6602107376151805837
+    second: Spider-Man2099_48
+  - first:
+      213: -3842828478970237542
+    second: Spider-Man2099_49
+  - first:
+      213: -2983770317401957718
+    second: Spider-Man2099_50
+  - first:
+      213: 447717967574911340
+    second: Spider-Man2099_51
+  - first:
+      213: 8148171065999388348
+    second: Spider-Man2099_52
+  - first:
+      213: -8956149032193843859
+    second: Spider-Man2099_53
+  - first:
+      213: -3952151571104334152
+    second: Spider-Man2099_54
+  - first:
+      213: -4421253174758103924
+    second: Spider-Man2099_55
+  - first:
+      213: -8271602497031043656
+    second: Spider-Man2099_56
+  - first:
+      213: 4517939022701342791
+    second: Spider-Man2099_57
+  - first:
+      213: 1228401315354318539
+    second: Spider-Man2099_58
+  - first:
+      213: 3945707267497134161
+    second: Spider-Man2099_59
+  - first:
+      213: 4665882698335264684
+    second: Spider-Man2099_60
+  - first:
+      213: 4361647898340344004
+    second: Spider-Man2099_61
+  - first:
+      213: 6473412814346770392
+    second: Spider-Man2099_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spider-Man2099_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 430
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89f525ecbee473f0800000000000000
+      internalID: -903835130128893553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 429
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a266707498b2d800800000000000000
+      internalID: 635773445094138528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 429
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f448118e1ee7760800000000000000
+      internalID: 7457646419814666112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefbc0b839277fb00800000000000000
+      internalID: 862283831683366890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 426
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906da41d945f95200800000000000000
+      internalID: 169436158395864585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_5
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 431
+        width: 45
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14db67f22b39b3b50800000000000000
+      internalID: 6574010474587143489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 432
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2603898b03a52d0800000000000000
+      internalID: -3289263008455302454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_7
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 427
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56aa689ff0a100e20800000000000000
+      internalID: 3314677981657868901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_8
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 454
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04c1d37e103c82a0800000000000000
+      internalID: -6733954435475454964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_9
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 453
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5d8db2d410cd6b0800000000000000
+      internalID: -5270336032970582545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 336
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9e56ba318be3370800000000000000
+      internalID: 8304277157537245653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 336
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd02f1c378c72f950800000000000000
+      internalID: 6481379734010667229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_12
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 333
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20c86a460d03cdf0800000000000000
+      internalID: -161270840985862099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_13
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 335
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f871b871e3955bbd0800000000000000
+      internalID: -2615085885400868977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_14
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 336
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf6da24c9f98e0c0800000000000000
+      internalID: -4546208330348138561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_15
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 335
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb260551942a0f90800000000000000
+      internalID: -6986731665296577602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_16
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 343
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8dea0d6b282f240800000000000000
+      internalID: 4824061872564000954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_17
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 344
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61103d57a5a855360800000000000000
+      internalID: 7157779303903723798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_18
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 340
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66db0f24c84ef8650800000000000000
+      internalID: 6237455300001054054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_19
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 343
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3b06764f6c2dea0800000000000000
+      internalID: -5849394212992142404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 273
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa815466787cf750800000000000000
+      internalID: 6340074825315355309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 272
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0ef471550804710800000000000000
+      internalID: 1675480164333510826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_22
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 270
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7849e8254fbda16d0800000000000000
+      internalID: -3018858757794917241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_23
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 268
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e56cdb7a43849a70800000000000000
+      internalID: 8832829125109245414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_24
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 268
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6aa190feaf00630800000000000000
+      internalID: 3891385982604977898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_25
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 268
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1d42742ab31c3a0800000000000000
+      internalID: -6646966006857805386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_26
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 269
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25723bf1e683070c0800000000000000
+      internalID: -4580098775406401710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_27
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 262
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846d80ee0a82c7a10800000000000000
+      internalID: 1908445013751682632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_28
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 265
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4051453f61c284dc0800000000000000
+      internalID: -3654622620527880956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_29
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 266
+        width: 82
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd42d574a3efa2fb0800000000000000
+      internalID: -4671642137184623396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 183
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a18ab3581a9b5ad0800000000000000
+      internalID: -2712404921285967450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 186
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632434a3035b22b40800000000000000
+      internalID: 5414088920793301558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_32
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 188
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280f505bb387979e0800000000000000
+      internalID: -1623133992854884222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_33
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 199
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbaec5cdc4b2ee80800000000000000
+      internalID: -8150753579707225152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 194
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8bb1cfa6c9a3600800000000000000
+      internalID: 448843096186927333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_35
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 202
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df5a5b9bd867afc0800000000000000
+      internalID: -3483700494334271530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_36
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 200
+        width: 79
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce21d9fe0930c40f0800000000000000
+      internalID: -1131525485346614548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_37
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 207
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d7871d8258f2da0800000000000000
+      internalID: -5967404570883097197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_38
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 113
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a741a00b5dc17bc0800000000000000
+      internalID: -3787020020905588832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_39
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 114
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6dc6bdba00ddb50800000000000000
+      internalID: 6619447765425247976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_40
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 115
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59a94dba0fc4e960800000000000000
+      internalID: 7630451313704806747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_41
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 115
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070f7a5d37a29eaa0800000000000000
+      internalID: -6131322740694060944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_42
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 127
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8924ae03342a0d10800000000000000
+      internalID: 2092524778574588302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_43
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 127
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c6427b7e18416c0800000000000000
+      internalID: -4173568122455561102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_44
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 107
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eeb103f1e61a8670800000000000000
+      internalID: 8541664802961997538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_45
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 105
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3335aa4e11dfd30800000000000000
+      internalID: 4466746079229195198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_46
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 108
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a076e7c9d0e46c5a0800000000000000
+      internalID: -6501423191695661302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_47
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 117
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94d90879180b5e30800000000000000
+      internalID: 4493193958713316508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_48
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 114
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3704c73225a9064a0800000000000000
+      internalID: -6602107376151805837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_49
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 120
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d693acbd78baac0800000000000000
+      internalID: -3842828478970237542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_50
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 117
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaad6eb74b48796d0800000000000000
+      internalID: -2983770317401957718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_51
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 11
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69ccd09e1d963600800000000000000
+      internalID: 447717967574911340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_52
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 25
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe6206e96e141170800000000000000
+      internalID: 8148171065999388348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_53
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 32
+        width: 71
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d90ac28ed55b380800000000000000
+      internalID: -8956149032193843859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_54
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 14
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bef2d1e5132729c0800000000000000
+      internalID: -3952151571104334152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_55
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 15
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84a97099ad84a2c0800000000000000
+      internalID: -4421253174758103924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_56
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 16
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b50b319a5d553d80800000000000000
+      internalID: -8271602497031043656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_57
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7403df4aa91f2be30800000000000000
+      internalID: 4517939022701342791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_58
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 8
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6115bec782c0110800000000000000
+      internalID: 1228401315354318539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_59
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 6
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15808d2cad7f1c630800000000000000
+      internalID: 3945707267497134161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_60
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 3
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf1aedd79b80c040800000000000000
+      internalID: 4665882698335264684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_61
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 9
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0c7ef87afa78c30800000000000000
+      internalID: 4361647898340344004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man2099_62
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 7
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7d99338ae26d950800000000000000
+      internalID: 6473412814346770392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
